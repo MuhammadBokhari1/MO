@@ -11,8 +11,6 @@ My personal repository
 
 - 🤝 I’m looking for help with **Swift and XCODE**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-b-27225a243/](https://www.linkedin.com/in/muhammad-b-27225a243/)
-
 - 📝 I regularly write articles on [how to start coding as a begineer](how to start coding as a begineer)
 
 - 💬 Ask me about **Website development**
